@@ -1,0 +1,5 @@
+*.out
+.clangd
+*.json
+experiments.cpp
+.cache
